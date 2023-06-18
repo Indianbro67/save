@@ -15,7 +15,7 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 API_ID = 26670684
 API_HASH = "60592bded0f25a9633a8133601f2c779"
 BOT_TOKEN = "6289264953:AAGXNmL3GruFdPDTitjPpGgAKIwG4MxA9Zs"
-SESSION = "BQB8EdI-9AwgAGhnmVbU5H7lE4742ENWHZtkF7_RwCnu5guTqBEbCoGevh>
+SESSION = "BQB8EdI-9AwgAGhnmVbU5H7lE4742ENWHZtkF7_RwCnu5guTqBEbCoGevhpa4QhPuobYUDx6yPOy9XxD3jCtLXf9GKjZsapnuJxax12--LJ5gNFQcQCsAg55rHcZNKo45CSgv2aURNbwf8FrRIAey2gCPvvlhLELsU9oxv-ibuwYBH7gEJzlim4axXqowBDbE27iqGOfip1NDXiw6cu77noWzWsHQFrpHlHDQCtJXDrQrJPNcXeRsNWskR9LjzJRypMXMxlVNzbLlWLGvuXb4lWqxSmuXyhX5kH52RXlL5hCDK3oT9Wtpln2HYrVxgfsBV1ocBZUz9ifR2gYLgmtIykOAAAAAWhsudsA"
 FORCESUB = "op_bro_official_group"
 AUTH = "6046923227"
 
