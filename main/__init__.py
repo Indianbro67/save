@@ -14,7 +14,7 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 # variables
 API_ID = 26670684
 API_HASH = "60592bded0f25a9633a8133601f2c779"
-BOT_TOKEN = "6289264953:AAG1N1Q3_KXM-V2KB-nDb9LFlMXq9WpZPv8"
+BOT_TOKEN = "5835400119:AAG05VIHGiaNvefr3DKF4yd8bTAcZLSyxx4"
 SESSION = "BQGW9lwAP6bI-dEkKKwBtkR4MgcttQ8XwZT6cjD7ULcdrfOT80KPxpxfs9LeJQnYFsSqI0Qsztr1_EliOE3lpe-JRGLPOlXnFvgVxLedajXhJWHuNXbu_4OuOqvT0jagqQqF-OzQ1ovoK6D00pugJkr6YljPmd1kCDPjXtpEmqgW2rePZNSqjCIlbAI-1Q0LwkW1HlO8cHwRQw9VGj3TPW_CAMIruxvkakz2JNDYdDITMbtOXQafu33gAtts6EAkEYF_01YcHu9X8kzlUpBL1G0UiSc2kX2FEnx3cCvuj-c5eC4MWHYInhkdi7d3zruvB43liyBpcftrNViCbU1jsPYyyzqQmgAAAAFobLnbAA"
 FORCESUB = "adult_updates"
 AUTH = "6470626271"
