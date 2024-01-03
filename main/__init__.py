@@ -12,11 +12,11 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
                     level=logging.WARNING)
 
 # variables
-API_ID = 26670684
-API_HASH = "60592bded0f25a9633a8133601f2c779"
-BOT_TOKEN = "6317945060:AAE8VqjA0HGWu23EtN4OBmGuPjMb7ttHZYI"
-SESSION = "BQGMcpgAKXYTi9nCVQOo8d6DDnBlaJnihDYEQ6oYBNBLfKWy9K7fLRfgCjWQ3Px-GDZn5YUZFhSv4Rjtu3EGFD4QjjSYZAy3Rf1bvYh6Ey5uGGR4QNtWtyhP8HMOGDK45rDukpZhsjvoas9aaKlNPJT9B-1cLb8ToDBssJ-apcZWHM7pPqvuWRJuiuQxoSX3l-oAtbRt1o3aoSVaYEgHJ_LaeMnVaUrRkYpd3XgjauLBGwtMGl-s6NwrrI1r8w6ddXgyx5Yflwy5obvpdHk09EdYClYYxvVJ8IHVm13VC2B-r56-g34anjR81J1t42YiYZOB0jlQF9PWIJOwXINaV1QIg9qxBAAAAAFcJqwZAA"
-FORCESUB = "adult_girls_xxx"
+API_ID = 22611629
+API_HASH = "762265a63c3c56717476a2c74d7f7acc"
+BOT_TOKEN = "5835400119:AAG05VIHGiaNvefr3DKF4yd8bTAcZLSyxx4"
+SESSION = "AQB0B1Kxzz8U_J7oDHfnCNWWdxNQOqq6WHKEvm_i8C6VL5n2f7tWeS-GFsL5jJ_o_-loLjfObNdYD8LmcoSuLcqkH5yPHvxqTHoSrVmZomIUlBfvjcVDN0YcaavW1-z3ezP9vLrBsw4dKNSTjJpsHHljaez8Tfix3vqPO7DNCP16IRTr2SW6sHqLyl6Vn35n0ay8x12eDKYqQpqG3esymMogUoss2Dcs1nVW9D_Quuea-7IkyoCuk9SP3_ZxmXxI1ukDIBVsGA8QrZyyqjOuUQohdxFThrvFNwIDhY17_lDOfzChtBkeGzfNuOtKHTwRh8wGd8TzNHa0bVbWH-yOSil0AAAAAWvVxDkA"
+FORCESUB = "adult_chatting_groupxx"
 AUTH = "5841005593"
 
 bot = TelegramClient('bot', API_ID, API_HASH).start(bot_token=BOT_TOKEN) 
